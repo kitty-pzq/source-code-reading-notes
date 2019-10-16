@@ -1,2 +1,2 @@
 # source-code-reading-notes
-源码阅读笔记。
+开源代码阅读笔记。主要是思维导图。
